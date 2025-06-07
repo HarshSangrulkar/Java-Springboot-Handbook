@@ -1,8 +1,4 @@
-Of course! Let's build the **Finance Tracker Pro** application from the ground up. I'll act as your development partner, taking you through each step of building the backend with Spring Boot and the frontend with React. We'll build it feature by feature, and after each logical block of work, I'll provide a commit message as if we're pushing to a code repository.
-
-Let's get started. 🚀
-
----
+**Finance Tracker **
 
 ### **Step 1: Setting Up the Spring Boot Backend**
 
