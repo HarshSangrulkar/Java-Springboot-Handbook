@@ -1,4 +1,4 @@
-#### Finance Tracker
+## **Finance Tracker**
 
 ### **Step 1: Setting Up the Spring Boot Backend**
 
